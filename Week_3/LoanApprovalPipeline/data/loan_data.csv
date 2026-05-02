@@ -1,0 +1,5 @@
+Income,CreditScore,EmploymentType,LoanAmount,LoanStatus
+45000,700,Salaried,150000,Approved
+30000,580,Self-Employed,80000,Rejected
+60000,720,Salaried,120000,Approved
+25000,550,Unemployed,50000,Rejected

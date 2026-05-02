@@ -1,0 +1,6 @@
+langchain>=0.1.0
+langchain-community
+sentence-transformers
+torch
+faiss-cpu
+gpt4all

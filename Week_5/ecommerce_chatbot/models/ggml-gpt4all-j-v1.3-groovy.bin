@@ -1,0 +1,5 @@
+from gpt4all import GPT4All
+
+bot = GPT4All("ggml-gpt4all-j-v1.3-groovy", allow_download=False)
+response = bot.generate("Hello! How are you?")
+print(response)

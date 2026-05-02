@@ -1,0 +1,11 @@
+Product: Laptop
+Category: Electronics
+Price: 50000 INR
+Delivery Time: 3-5 business days
+
+Product: Smartphone
+Category: Electronics
+Price: 30000 INR
+Delivery Time: 2-4 business days
+
+Return Policy: Products can be returned within 7 days of delivery if damaged.
