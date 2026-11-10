@@ -19,8 +19,6 @@ elif operation == '/':
 else:
     print("Invalid operation")
 
-
-
 # second typ
 first=int(input("Enter first value: "))
 operater=input("Enter operater (+,-,*,/,%): ")
