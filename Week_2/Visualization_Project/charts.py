@@ -16,7 +16,6 @@ def line_plot(df):
     plt.savefig(os.path.join(charts_dir, "line_plot.png"), dpi=300)
     plt.show()
 
-
 def bar_chart(df):
     plt.figure()
     sns.barplot(x=df["Day"], y=df["Sales"])
@@ -26,7 +25,6 @@ def bar_chart(df):
 
     plt.savefig(os.path.join(charts_dir, "bar_chart.png"), dpi=300)
     plt.show()
-
 
 def scatter_plot(df):
     plt.figure()
